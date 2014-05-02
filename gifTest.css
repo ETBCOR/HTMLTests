@@ -1,13 +1,17 @@
 body {
-	background-image: url("myImage");
-
-	padding: 1%;
+	background-image: url("background.gif");
 
 	float: middle;
 
 	border-style: solid;
-	border-color:#ff0000;
+	border-color: #FF9E00;
+	border-width: 20px;
 
 	margin-left: 20%;
 	margin-right: 20%;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+h4 {
+	background-color: #cccccc;
 }
