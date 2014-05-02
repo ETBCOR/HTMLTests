@@ -1,0 +1,13 @@
+body {
+	background-image: url("myImage");
+
+	padding: 1%;
+
+	float: middle;
+
+	border-style: solid;
+	border-color:#ff0000;
+
+	margin-left: 20%;
+	margin-right: 20%;
+}
